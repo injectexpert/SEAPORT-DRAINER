@@ -20,3 +20,10 @@ If you are interested in creating an email or phishing website template, contact
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 
 ## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/TrewisWork#
+
+### Be careful ### 
+[scam]
+
+https://github.com/Cultured2/seaport-eth-nft-drainer-safa-bypass
+
+Due to numerous attempts to deceive users, people began to copy my code repository and pass it off as their own. But they don't even know the password for the archive. Be careful. Check everything.
