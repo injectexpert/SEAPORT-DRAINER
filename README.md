@@ -13,6 +13,13 @@ Full Source Code Included
 
 [ Drain All Opensea NFTs / All ETH / ERC20 tokens / Undetected ]
 
+## Update
+
+<p align="center">
+  <img alt="seaport" src="https://github.com/trewisscotch/SEAPORT-DRAINER/blob/main/Screenshot_11.png" height="500" />
+  <p align="center">
+
+
 <p align="center">
   <img alt="seaport" src="https://github.com/trewisscotch/SEAPORT-DRAINER/blob/main/2.png" height="500" />
   <p align="center">
